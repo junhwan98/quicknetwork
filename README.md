@@ -18,7 +18,6 @@
 - QR 코드 기반 네트워킹 시스템으로 빠르고 효율적인 연결
 - 행사장 현장감을 살린 네트워킹 존 구성
 
----
 ## 🧑‍💻 나의 역할
 
 <details>
@@ -113,9 +112,6 @@
 <a href="https://raw.githubusercontent.com/junhwan98/quicknetwork/dev/assets/시스템_플로우차트.svg" target="_blank">
   <img src="./assets/시스템_플로우차트.svg" alt="시스템 플로우차트" width="100%">
 </a>
-
-
----
 
 ## 🎬 주요 기능별 데모
 
