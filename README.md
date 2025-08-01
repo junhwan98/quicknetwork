@@ -18,6 +18,13 @@
 - QR 코드 기반 네트워킹 시스템으로 빠르고 효율적인 연결
 - 행사장 현장감을 살린 네트워킹 존 구성
 
+## 🗃️ 사용 기술 스택
+
+- **Backend:** Java 17, Spring Boot 3, Spring Security, JPA, MySQL, JWT
+- **Frontend:** Next.js, React.js, TypeScript, Tailwind CSS
+- **Infra:** AWS (EC2, RDS), Docker, GitHub Actions
+- **Tool:** GitHub, Discord, Linear
+
 ## 🧑‍💻 나의 역할
 
 <details>
@@ -88,22 +95,7 @@
 
 </details>
 
-<details>
-<summary><strong>시스템 모니터링 구축</strong></summary>
-
-**기술 스택**: Prometheus, Grafana, Spring Actuator
-
-**구현 내용**:
-- 어플리케이션 및 서버 상태 모니터링 대시보드 구축
-- 네트워킹 세션, 테이블 사용률 등 커스텀 메트릭 수집 및 시각화
-
-**⚠️ 주요 이슈**  
-- 운영 중인 기능별 상태를 실시간으로 확인할 방법  
-  → Prometheus Exporter + Grafana 대시보드로 실시간 모니터링 가능
-
-</details>
-
-## 🧱 시스템 아키텍처
+## 💻 시스템 아키텍처
 
 ![퀵커넥트 아키텍처](assets/퀵커넥트아키텍처.png)  
 
