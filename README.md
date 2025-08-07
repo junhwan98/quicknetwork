@@ -20,10 +20,12 @@
 
 ## 🗃️ 사용 기술 스택
 
-- **Backend:** Java 17, Spring Boot 3, Spring Security, JPA, MySQL, JWT
-- **Frontend:** Next.js, React.js, TypeScript, Tailwind CSS
-- **Infra:** AWS (EC2, RDS), Docker, GitHub Actions
-- **Tool:** GitHub, Discord, Linear
+| 구분       | 사용 기술                                                                 |
+|------------|--------------------------------------------------------------------------|
+| Backend    | Java 17, Spring Boot 3, Spring Security, JPA, MySQL, JWT                |
+| Frontend   | Next.js, React.js, TypeScript, Tailwind CSS                             |
+| Infra      | AWS (EC2, RDS), Docker, GitHub Actions                                  |
+| Tool       | GitHub, Discord, Linear                                                 |
 
 ## 🧑‍💻 나의 역할
 
